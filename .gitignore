@@ -68,4 +68,11 @@ buildNumber.properties
 mvn/wrapper/maven-wrapper.jar
 .flattened-pom.xml
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
 # End of https://www.gitignore.io/api/java,macos,maven
